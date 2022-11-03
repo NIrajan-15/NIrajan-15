@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 
 ### Technology Stack:
 
-<p align="center">
-  [![My Skills](https://skills.thijs.gg/icons?i=java,py,js,html,css,react,mysql,postgres,docker,git,figmafigma&theme=light)](https://skills.thijs.gg)
-</p>
+[![My Skills](https://skills.thijs.gg/icons?i=java,py,js,html,css,react,mysql,postgres,docker,git,figmafigma&theme=light)](https://skills.thijs.gg)
+
 
 ### Github Stats
 
