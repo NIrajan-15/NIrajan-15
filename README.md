@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![My Skills](https://skills.thijs.gg/icons?i=java,py,js,html,css,react,mysql,postgres,docker,git,figmafigma&theme=light)](https://skills.thijs.gg)
 
-[Github stats]
 ![Github stats](https://github-readme-stats.vercel.app/api?username=NIrajan-15&count_private=true&show_icons=true&theme=radical) 
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NIrajan-15&show_icons=true&theme=radical)
