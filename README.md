@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Github Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=NIrajan-15&count_private=true&show_icons=true&theme=radical&line_height=25&hide=stars)) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=NIrajan-15&count_private=true&show_icons=true&theme=radical&line_height=24&hide=stars) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/nirajan-sangraula/)  
