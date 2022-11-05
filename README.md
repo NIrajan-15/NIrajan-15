@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 ## Top Languages
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NIrajan-15&show_icons=true&theme=radical)
+
+[LinkedIn](https://www.linkedin.com/in/nirajan-sangraula/)  
