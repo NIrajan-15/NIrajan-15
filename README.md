@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align=""center>
-I am A senior Undergrad majoring in Computer Science at University of Louisiana Monroe. I love exploring and Learning. 
+  I am A senior Undergrad majoring in Computer Science at University of Louisiana Monroe. I love exploring and Learning. 
 </p>
 <!--
 **NIrajan-15/NIrajan-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
