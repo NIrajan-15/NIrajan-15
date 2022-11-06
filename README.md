@@ -12,8 +12,8 @@
  ## Experiences
 <html>
             <ul>
-                        <li>Software Developer at IBM Louisiana Economic Development Grant (formerly <a href="">LSBDC</a>)</li>
-                        <li>Techincal Intern at <a href="">DXC Technology</a></li>
+                        <li>Software Developer at IBM Louisiana Economic Development Grant (formerly <a href="https://www.louisianasbdc.org/">LSBDC</a>)</li>
+                        <li>Techincal Intern at <a href="https://dxc.com/us/en">DXC Technology</a></li>
                         <li>Undergraduate Teaching Assitant at Department of CS, <a href="https://www.ulm.edu/">ULM</a></li>
             </ul>            
             
@@ -23,8 +23,8 @@
 
 <html>
             <p align="center">
-                  <img src="https://github-readme-stats.vercel.app/api?username=NIrajan-15&count_private=true&show_icons=true&theme=radical&line_height=24&hide=stars"                     />
-                  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIrajan-15&langs_count=6&layout=compact&line_height=40" />
+                  <img src="https://github-readme-stats.vercel.app/api?username=NIrajan-15&count_private=true&show_icons=true&theme=radical&hide=stars"                      height="200px"/>
+                  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIrajan-15&langs_count=6&layout=compact" height="200px" />
             </p>           
             
 </html>
