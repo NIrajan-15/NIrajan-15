@@ -3,7 +3,7 @@
 <html>
             <p align="center">
             <h3> Hi there 👋 </h3>
-                  I am a Senior Undergrad majoring in Computer Science at University of Louisiana Monroe. I love exploring and Learning.
+                  I am a Senior Undergrad majoring in Computer Science at University of Louisiana Monroe. I love to learn and explore.
             </p>
 </html>
 
