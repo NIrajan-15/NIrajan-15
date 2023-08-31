@@ -12,9 +12,10 @@
  ## Experiences
 <html>
             <ul>
-                        <li>Software Developer at IBM Louisiana Economic Development Grant (formerly <a href="https://www.louisianasbdc.org/">LSBDC</a>)</li>
-                        <li>Techincal Intern at <a href="https://dxc.com/us/en">DXC Technology</a></li>
-                        <li>Undergraduate Teaching Assitant at Department of CS, <a href="https://www.ulm.edu/">ULM</a></li>
+                        <li>Software Engineering Intern at <a href="https://dxc.com/us/en">DXC Technology</a> June 2023 - Present</li>
+                        <li>Software Developer at IBM Louisiana Economic Development Grant (formerly <a href="https://www.louisianasbdc.org/">LSBDC</a>) August 2021 - August 2023</li>
+                        <li>Techincal Intern at <a href="https://dxc.com/us/en">DXC Technology</a> June 2022 - August 2023</li>
+                        <li>Undergraduate Teaching Assitant at Department of CS, <a href="https://www.ulm.edu/">ULM</a> February 2022 - November 2022</li>
             </ul>            
             
 </html>
