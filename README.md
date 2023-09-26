@@ -24,7 +24,6 @@
 
 <html>
             <p align="center">
-                  
                   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIrajan-15&langs_count=6&layout=compact" width="545px" />
             </p>           
             
