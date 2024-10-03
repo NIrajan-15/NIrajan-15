@@ -13,7 +13,7 @@
 <html>
             <ul>
                         <li>Software Engineering Intern at <a href="https://dxc.com/us/en">DXC Technology</a> (June 2023 - June 2024)</li>
-                        <li>Software Developer at Louisiana Small Business Development Center (formerly <a href="https://www.louisianasbdc.org/">LSBDC</a>) (August 2021 - June 2023) </li>
+                        <li>Software Developer at Louisiana Small Business Development Center (<a href="https://www.louisianasbdc.org/">LSBDC</a>) (August 2021 - June 2023) </li>
                         <li>Application Developer Intern at <a href="https://dxc.com/us/en">DXC Technology</a> (June 2022 - August 2022)</li>
                         <li>Undergraduate Teaching Assitant at Department of CS, <a href="https://www.ulm.edu/">ULM</a> (February 2022 - November 2022)</li>
             </ul>            
