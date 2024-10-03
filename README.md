@@ -3,7 +3,7 @@
 <html>
             <p align="center">
             <h3> Hi there 👋 </h3>
-                  I am a Senior Undergrad majoring in Computer Science at the University of Louisiana Monroe. I love to learn and explore.
+                  I'm Nirajan Sangraula. I love to learn and explore.
             </p>
 </html>
 
@@ -12,9 +12,9 @@
  ## Experiences
 <html>
             <ul>
-                        <li>Software Engineering Intern at <a href="https://dxc.com/us/en">DXC Technology</a> (June 2023 - Present)</li>
-                        <li>Software Developer at IBM Louisiana Economic Development Grant (formerly <a href="https://www.louisianasbdc.org/">LSBDC</a>) (August 2021 - August 2023) </li>
-                        <li>Techincal Intern at <a href="https://dxc.com/us/en">DXC Technology</a> (June 2022 - August 2023)</li>
+                        <li>Software Engineering Intern at <a href="https://dxc.com/us/en">DXC Technology</a> (June 2023 - June 2024)</li>
+                        <li>Software Developer at Louisiana Small Business Development Center (formerly <a href="https://www.louisianasbdc.org/">LSBDC</a>) (August 2021 - August 2023) </li>
+                        <li>Application Developer Intern at <a href="https://dxc.com/us/en">DXC Technology</a> (June 2022 - August 2023)</li>
                         <li>Undergraduate Teaching Assitant at Department of CS, <a href="https://www.ulm.edu/">ULM</a> (February 2022 - November 2022)</li>
             </ul>            
             
